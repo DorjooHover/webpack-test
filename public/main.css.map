@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":";;;AAAA,KACI,UAAW,CACX,cAAe,C","sources":["webpack:///./main.scss"],"sourcesContent":["body {\r\n    color: blue;\r\n    font-size: 5rem;\r\n}"],"names":[],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(()=>{function a(d){var e=c[d];if(void 0!==e)return e.exports;var f=c[d]={exports:{}};return b[d](f,f.exports,a),f.exports}var b={"./main.js":()=>{},"./img/stones.png":(a)=>{a.exports="img/stones.png"},"./main.scss":(a,b,c)=>{"use strict";c.r(b)}},c={};(()=>{a.r=(a)=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(a,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(a,"__esModule",{value:!0})}})(),a("./main.js"),a("./main.scss");a("./img/stones.png")})();
+//# sourceMappingURL=main.js.map
